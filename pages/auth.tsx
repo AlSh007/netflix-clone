@@ -13,7 +13,13 @@ const Auth =() =>{
                             Sign in
                         </h2>
                         <div className="flex flex-col gap-4">
-                            <Input />
+                            <Input 
+                            label="Email"
+                            onChange={() =>{}}
+                            type="email"
+                            id="email"
+                            value=""
+                             />
                         </div>
                     </div>
 
