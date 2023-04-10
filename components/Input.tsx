@@ -38,7 +38,9 @@ const Input = () =>{
             peer-placeholder-shown:translate-y-0 
             peer-focus:scale-75
             peer-focus:-translate-y-3
-          "></label>
+          ">
+            Email
+          </label>
         </div>
     );
 }
