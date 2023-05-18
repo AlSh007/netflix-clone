@@ -1,3 +1,4 @@
+import Billboard from "@/components/Billboard";
 import Navbar from "@/components/Navbar";
 import { User } from "@prisma/client";
 import { NextPageContext } from "next"
@@ -22,6 +23,7 @@ export default function Home() {
   return (
     <>
       <Navbar/>
+      <Billboard/>
     </>
   )
 }
