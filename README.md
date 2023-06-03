@@ -26,7 +26,7 @@ To run the Netflix clone locally, follow these steps:
 1. Clone the repository: `git clone <repository-url>`
 2. Navigate to the project directory: `cd netflix-clone`
 3. Install the dependencies: `npm install`
-4. Set up the database connection in the `.env` file using your MongoDB credentials.
+4. Set up the database connection in the `.env` file using your MongoDB credentials and in the same file Github Credentials for OAuth.
 5. Populate the database with sample movies and TV shows (if available).
 6. Run the development server: `npm run dev`
 7. Open your browser and visit `http://localhost:3000` to access the Netflix clone.
