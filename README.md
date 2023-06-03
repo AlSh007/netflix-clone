@@ -9,7 +9,6 @@ This project is a Netflix clone built using Next.js, React, Prisma, Tailwind CSS
 - View detailed information about each movie or TV show, including ratings, synopsis, and cast.
 - Create and manage user profiles.
 - Maintain a personal watchlist.
-- Track watched content and resume from where you left off.
 - Responsive design for optimal viewing on various devices.
 
 ## Technologies Used
